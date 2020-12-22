@@ -59,3 +59,12 @@ You can also embed plots, for example:
 <img src="man/figures/README-pressure-1.png" title="plot of chunk pressure" alt="plot of chunk pressure" width="100%" />
 
 In that case, don't forget to commit and push the resulting figure files, so they display on GitHub and CRAN.
+
+1. Changes you share should be closely related
+2. Commit often
+3. The work you share should be complete
+4. Test before you commit
+5. Structure commit messages like an email
+6. Agree on a workflow
+7. Use tools to be more productive
+
