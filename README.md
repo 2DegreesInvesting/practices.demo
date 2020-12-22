@@ -11,7 +11,7 @@ output: github_document
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of practices.demo is to ...
+The goal of practices.demo is to give an example of Git practices.
 
 ## Installation
 

@@ -1,5 +1,5 @@
 Package: practices.demo
-Title: What the Package Does (One Line, Title Case)
+Title: Examples of Git Practices 
 Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Mauro",
