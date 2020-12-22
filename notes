@@ -1,8 +1,3 @@
-tl;dr
-
-Changes in each shared commit should be closely related.
-Shared commits should not be changed.
-
 1. Changes you share should be closely related
 2. Commit often
 3. The work you share should be complete
